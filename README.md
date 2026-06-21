@@ -1,11 +1,17 @@
 # Assessor
 
+
+
+
 ## Guia visual do sistema
 
-> Mockups demonstrativos do sistema, com dados ficticios e sem informacoes reais de pacientes ou da instituicao.
+> Telas demonstrativas baseadas nos componentes, textos, cores e fluxos encontrados no código deste repositório. Os dados exibidos são fictícios e não representam pacientes, profissionais ou instituições reais.
 
-### Passagem de Plantao - visao geral
-![Passagem de Plantao - visao geral](./docs/screenshots/overview.svg)
+### Passagem de Plantão - lista
+![Passagem de Plantão - lista](./docs/screenshots/lista-plantao.svg)
 
-### Passagem de Plantao - fluxo operacional
-![Passagem de Plantao - fluxo operacional](./docs/screenshots/workflow.svg)
+### Passagem de Plantão - modal
+![Passagem de Plantão - modal](./docs/screenshots/modal-passagem.svg)
+
+### Passagem de Plantão - dashboard
+![Passagem de Plantão - dashboard](./docs/screenshots/dashboard-plantao.svg)
